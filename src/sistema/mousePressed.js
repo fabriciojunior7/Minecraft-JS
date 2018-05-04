@@ -1,0 +1,3 @@
+function mousePressed(){
+	print("mouse");
+}

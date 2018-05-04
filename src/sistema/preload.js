@@ -1,0 +1,3 @@
+funciton preload(){
+	print("Ok!");
+}
